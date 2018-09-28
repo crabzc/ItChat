@@ -280,6 +280,7 @@ A: 有些账号是天生无法给自己的账号发送信息的，建议使用`f
 或者也可以在gitter上交流：[![Gitter][gitter-picture]][gitter]
 
 当然也可以加入我们新建的QQ群讨论：549762872, 205872856
+## test
 
 [gitter-picture]: https://badges.gitter.im/littlecodersh/ItChat.svg
 [gitter]: https://gitter.im/littlecodersh/ItChat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
@@ -304,3 +305,4 @@ A: 有些账号是天生无法给自己的账号发送信息的，建议使用`f
 [yaphone-itchat4j]: https://github.com/yaphone/itchat4j
 [kanjielu-jeeves]: https://github.com/kanjielu/jeeves
 [issue#1]: https://github.com/littlecodersh/ItChat/issues/1
+
